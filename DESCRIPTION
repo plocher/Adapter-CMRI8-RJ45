@@ -10,5 +10,5 @@ cable, but this time it can be populated with a 0.1" or 3.5mm pitch
 screw terminal and mounted to the benchwork near where it's signals
 are used.
 
-  * Initial version
+  * Added ground tie point/distribution, 0.100 pin header
 
