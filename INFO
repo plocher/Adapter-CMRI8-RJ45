@@ -2,5 +2,7 @@ name: Adapter-CMRI8-RJ45
 designer: John Plocher
 fabricated: yes
 fab_date: 2018-12
+image_path: Adapter-CMRI8-RJ45-Graphic.png
 status: released
 publish: yes
+tags: [eagle, SPCoast]
