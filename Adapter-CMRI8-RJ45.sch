@@ -1622,6 +1622,136 @@ chip</description>
 <vertex x="0.299" y="-0.7218"/>
 </polygon>
 </package>
+<package name="1751251">
+<description>Phoenix MKDS 1/ 3-3,5 </description>
+<wire x1="-5.5" y1="3.75" x2="5.5" y2="3.75" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="3.75" x2="-5.5" y2="2.0123" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-1.9993" x2="-5.5" y2="-1.9993" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-1.5163" x2="5.5" y2="1.5367" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-1.9993" x2="5.5" y2="-2.811" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-1.5163" x2="5.5" y2="-1.9993" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="2.0123" x2="-5.5" y2="1.5367" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="2.0123" x2="5.5" y2="2.0123" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="1.5367" x2="5.5" y2="2.0123" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-1.5163" x2="-5.5" y2="1.5367" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="1.5367" x2="-5.5" y2="1.5367" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-1.5163" x2="5.5" y2="-1.5163" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="3.75" x2="5.5" y2="2.0123" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-1.5163" x2="-5.5" y2="-1.9993" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-1.9993" x2="-5.5" y2="-2.811" width="0.1016" layer="21"/>
+<wire x1="-4.706" y1="-0.711" x2="-2.789" y2="1.206" width="0.1016" layer="51"/>
+<wire x1="5.5" y1="-2.811" x2="-5.5" y2="-2.811" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-3.55" x2="5.5" y2="-3.55" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-3.25" x2="5.5" y2="-3.55" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-3.25" x2="5.5" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-3.25" x2="-5.5" y2="-3.55" width="0.1016" layer="21"/>
+<wire x1="-5.5" y1="-2.811" x2="-5.5" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="5.5" y1="-2.811" x2="5.5" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="-2.294" y1="0.711" x2="-2.3" y2="0.705" width="0.1016" layer="21"/>
+<wire x1="-2.3" y1="0.705" x2="-4.211" y2="-1.206" width="0.1016" layer="51"/>
+<wire x1="-1.206" y1="-0.711" x2="0.711" y2="1.206" width="0.1016" layer="51"/>
+<wire x1="1.206" y1="0.711" x2="1.2" y2="0.705" width="0.1016" layer="21"/>
+<wire x1="1.2" y1="0.705" x2="-0.711" y2="-1.206" width="0.1016" layer="51"/>
+<wire x1="2.294" y1="-0.711" x2="4.211" y2="1.206" width="0.1016" layer="51"/>
+<wire x1="4.706" y1="0.711" x2="4.7" y2="0.705" width="0.1016" layer="21"/>
+<wire x1="4.7" y1="0.705" x2="2.789" y2="-1.206" width="0.1016" layer="51"/>
+<circle x="-3.5" y="0" radius="1.45" width="0.1016" layer="21"/>
+<circle x="0" y="0" radius="1.45" width="0.1016" layer="21"/>
+<circle x="3.5" y="0" radius="1.45" width="0.1016" layer="21"/>
+<pad name="1" x="-3.5" y="-0.127" drill="1.1" diameter="1.7" rot="R90"/>
+<pad name="2" x="0" y="0.127" drill="1.1" diameter="1.7" rot="R90"/>
+<pad name="3" x="3.5" y="-0.127" drill="1.1" diameter="1.7" rot="R90"/>
+<text x="-3.95" y="2.3225" size="1.27" layer="21" font="vector">1</text>
+<text x="-0.4575" y="2.3225" size="1.27" layer="21" font="vector">2</text>
+<text x="3.035" y="2.3225" size="1.27" layer="21" font="vector">3</text>
+<text x="-5.855" y="-2.7575" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="-3.8025" y="4.2275" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.1016" layer="21">
+<vertex x="-4.9025" y="-2.7575"/>
+<vertex x="-5.22" y="-2.1225"/>
+<vertex x="-4.585" y="-2.1225"/>
+</polygon>
+</package>
+<package name="3POL254">
+<description>PHOENIX CONNECTOR</description>
+<wire x1="-3.94" y1="-1.45" x2="3.94" y2="-1.45" width="0.254" layer="21"/>
+<wire x1="3.94" y1="-1.45" x2="3.94" y2="1.45" width="0.254" layer="21"/>
+<wire x1="3.94" y1="1.45" x2="-3.94" y2="1.45" width="0.254" layer="21"/>
+<wire x1="-3.94" y1="1.45" x2="-3.94" y2="-1.45" width="0.254" layer="21"/>
+<wire x1="-3.83" y1="1.1" x2="3.83" y2="1.1" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="-0.508" x2="-2.032" y2="0.635" width="0.1524" layer="51"/>
+<wire x1="-0.762" y1="-0.254" x2="0.762" y2="0.127" width="0.1524" layer="51"/>
+<wire x1="2.032" y1="0.635" x2="3.048" y2="-0.635" width="0.1524" layer="51"/>
+<circle x="-2.54" y="0" radius="0.889" width="0.1524" layer="51"/>
+<circle x="0" y="0" radius="0.889" width="0.1524" layer="51"/>
+<circle x="2.54" y="0" radius="0.889" width="0.1524" layer="51"/>
+<pad name="1" x="-2.54" y="-0.127" drill="1.2" shape="octagon" rot="R90"/>
+<pad name="2" x="0" y="0.127" drill="1.2" rot="R90"/>
+<pad name="3" x="2.54" y="-0.127" drill="1.2" rot="R90"/>
+<text x="-4.064" y="1.778" size="1.27" layer="25">&gt;NAME</text>
+<text x="-4.064" y="-3.048" size="1.27" layer="27">&gt;VALUE</text>
+</package>
+<package name="SCREWTERMINAL-3.5MM-3_LOCK.007S">
+<wire x1="-2.3" y1="3.4" x2="9.3" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="9.3" y1="3.4" x2="9.3" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="9.3" y1="-2.8" x2="9.3" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="9.3" y1="-3.6" x2="-2.3" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="-2.3" y1="-3.6" x2="-2.3" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-2.3" y1="-2.8" x2="-2.3" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="9.3" y1="-2.8" x2="-2.3" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-2.3" y1="-1.35" x2="-2.7" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-2.7" y1="-1.35" x2="-2.7" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-2.7" y1="-2.35" x2="-2.3" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="9.3" y1="3.15" x2="9.7" y2="3.15" width="0.2032" layer="51"/>
+<wire x1="9.7" y1="3.15" x2="9.7" y2="2.15" width="0.2032" layer="51"/>
+<wire x1="9.7" y1="2.15" x2="9.3" y2="2.15" width="0.2032" layer="51"/>
+<circle x="0" y="0" radius="0.425" width="0.001" layer="51"/>
+<circle x="3.5" y="0" radius="0.425" width="0.001" layer="51"/>
+<circle x="7" y="0" radius="0.425" width="0.001" layer="51"/>
+<pad name="1" x="-0.1778" y="0" drill="1.2" diameter="2.032" shape="square"/>
+<pad name="2" x="3.5" y="0" drill="1.2" diameter="2.032"/>
+<pad name="3" x="7.1778" y="0" drill="1.2" diameter="2.032"/>
+<text x="-1.27" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.27" y="1.27" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="MOLEX-1X3_LOCK">
+<wire x1="-1.27" y1="3.048" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="6.35" y1="3.048" x2="6.35" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="6.35" y1="3.048" x2="-1.27" y2="3.048" width="0.127" layer="21"/>
+<wire x1="6.35" y1="-2.54" x2="5.08" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="5.08" y1="-2.54" x2="0" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="0" y1="-1.27" x2="5.08" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="5.08" y1="-1.27" x2="5.08" y2="-2.54" width="0.127" layer="21"/>
+<pad name="1" x="0" y="0.127" drill="1.016" diameter="1.8796" shape="square"/>
+<pad name="2" x="2.54" y="-0.127" drill="1.016" diameter="1.8796"/>
+<pad name="3" x="5.08" y="0.127" drill="1.016" diameter="1.8796"/>
+<rectangle x1="-0.2921" y1="-0.2921" x2="0.2921" y2="0.2921" layer="51"/>
+<rectangle x1="2.2479" y1="-0.2921" x2="2.8321" y2="0.2921" layer="51"/>
+<rectangle x1="4.7879" y1="-0.2921" x2="5.3721" y2="0.2921" layer="51"/>
+</package>
+<package name="SCREWTERMINAL-5MM-3">
+<wire x1="-3.1" y1="4.2" x2="13.1" y2="4.2" width="0.2032" layer="21"/>
+<wire x1="13.1" y1="4.2" x2="13.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="13.1" y1="-2.3" x2="13.1" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="13.1" y1="-3.3" x2="-3.1" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-3.3" x2="-3.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-2.3" x2="-3.1" y2="4.2" width="0.2032" layer="21"/>
+<wire x1="13.1" y1="-2.3" x2="-3.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-1.35" x2="-3.7" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-3.7" y1="-1.35" x2="-3.7" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-3.7" y1="-2.35" x2="-3.1" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="13.1" y1="4" x2="13.7" y2="4" width="0.2032" layer="51"/>
+<wire x1="13.7" y1="4" x2="13.7" y2="3" width="0.2032" layer="51"/>
+<wire x1="13.7" y1="3" x2="13.1" y2="3" width="0.2032" layer="51"/>
+<circle x="2.5" y="3.7" radius="0.2828" width="0.127" layer="51"/>
+<pad name="1" x="0" y="0" drill="1.3" diameter="2.413" shape="square"/>
+<pad name="2" x="5" y="0" drill="1.3" diameter="2.413"/>
+<pad name="3" x="10" y="0" drill="1.3" diameter="2.413"/>
+<text x="-1.27" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.27" y="1.27" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
 </packages>
 <symbols>
 <symbol name="M08">
@@ -5313,6 +5443,20 @@ chip</description>
 <vertex x="0.6834" y="-1.65"/>
 </polygon>
 </symbol>
+<symbol name="M03">
+<wire x1="2.54" y1="-5.08" x2="-3.81" y2="-5.08" width="0.4064" layer="94"/>
+<wire x1="0" y1="0" x2="1.27" y2="0" width="0.6096" layer="94"/>
+<wire x1="0" y1="-2.54" x2="1.27" y2="-2.54" width="0.6096" layer="94"/>
+<wire x1="-3.81" y1="5.08" x2="-3.81" y2="-5.08" width="0.4064" layer="94"/>
+<wire x1="2.54" y1="-5.08" x2="2.54" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="-3.81" y1="5.08" x2="2.54" y2="5.08" width="0.4064" layer="94"/>
+<text x="-3.81" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
+<text x="-3.81" y="5.842" size="1.778" layer="95">&gt;NAME</text>
+<pin name="1" x="6.35" y="-2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="2" x="6.35" y="0" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="3" x="6.35" y="2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<wire x1="0" y1="2.54" x2="1.27" y2="2.54" width="0.6096" layer="94"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="CONNECTOR-M08" prefix="J" uservalue="yes">
@@ -6023,6 +6167,63 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 </device>
 </devices>
 </deviceset>
+<deviceset name="CONNECTOR-M03" prefix="CON">
+<gates>
+<gate name="G$1" symbol="M03" x="0" y="0" swaplevel="1"/>
+</gates>
+<devices>
+<device name="350-LOCK" package="1751251">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="254-LOCK" package="3POL254">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3.5MM-LOCK" package="SCREWTERMINAL-3.5MM-3_LOCK.007S">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="MOLEX-254-LOCK" package="MOLEX-1X3_LOCK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="5MM-LOCK" package="SCREWTERMINAL-5MM-3">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -6038,7 +6239,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="J3" library="SPCoast" deviceset="KK-156-8" device="F"/>
 <part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="3.5MM-8"/>
-<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="M" value="DOC-OSHW-LOGO-M"/>
+<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="L" value="DOC-OSHW-LOGO-L"/>
 <part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="RJ45"/>
 <part name="J4" library="SPCoast" deviceset="CONNECTOR-M04" device="SCREW_LOCK"/>
 <part name="M1" library="SPCoast" deviceset="MOUNTINGHOLE" device=""/>
@@ -6052,6 +6253,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="R6" library="SPCoast" deviceset="R*" device="PTH04"/>
 <part name="R7" library="SPCoast" deviceset="R*" device="PTH04"/>
 <part name="R8" library="SPCoast" deviceset="R*" device="PTH04"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M03" device="3.5MM-LOCK"/>
 </parts>
 <sheets>
 <sheet>
@@ -6061,8 +6263,10 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <text x="63.5" y="68.58" size="1.778" layer="91" rot="R90">RJ45</text>
 <text x="152.4" y="27.94" size="3.81" layer="91">CMRI Breakout</text>
 <text x="198.12" y="27.94" size="3.81" layer="91">RJ45 adapter</text>
-<text x="236.22" y="7.62" size="3.81" layer="91">v4.0</text>
+<text x="236.22" y="7.62" size="3.81" layer="91">v5.0</text>
 <text x="96.52" y="22.86" size="1.778" layer="91" rot="R90">Ground tie points</text>
+<text x="149.86" y="38.1" size="1.778" layer="91">V5.0 - Added Frog Power breakout</text>
+<text x="96.52" y="132.08" size="1.778" layer="91">3.5mm/3  Frog Power SPDT</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -6090,6 +6294,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <instance part="R6" gate="R" x="83.82" y="104.14"/>
 <instance part="R7" gate="R" x="83.82" y="109.22"/>
 <instance part="R8" gate="R" x="83.82" y="114.3"/>
+<instance part="CON1" gate="G$1" x="100.33" y="121.92"/>
 </instances>
 <busses>
 </busses>
@@ -6175,7 +6380,8 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <pinref part="J3" gate="-5" pin="S"/>
 <pinref part="J2" gate="G$1" pin="5"/>
 <wire x1="147.32" y1="96.52" x2="129.54" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="96.52" x2="106.68" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="96.52" x2="109.22" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="96.52" x2="106.68" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="99.06" x2="106.68" y2="96.52" width="0.1524" layer="91"/>
 <junction x="106.68" y="96.52"/>
 <pinref part="J5" gate="G$1" pin="5"/>
@@ -6187,6 +6393,10 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <wire x1="78.74" y1="99.06" x2="88.9" y2="99.06" width="0.1524" layer="91"/>
 <junction x="78.74" y="99.06"/>
 <junction x="88.9" y="99.06"/>
+<pinref part="CON1" gate="G$1" pin="1"/>
+<wire x1="106.68" y1="119.38" x2="109.22" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="119.38" x2="109.22" y2="96.52" width="0.1524" layer="91"/>
+<junction x="109.22" y="96.52"/>
 </segment>
 </net>
 <net name="L6" class="0">
@@ -6194,7 +6404,8 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <pinref part="J3" gate="-6" pin="S"/>
 <pinref part="J2" gate="G$1" pin="6"/>
 <wire x1="147.32" y1="99.06" x2="129.54" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="99.06" x2="106.68" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="99.06" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="99.06" x2="106.68" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="104.14" x2="106.68" y2="99.06" width="0.1524" layer="91"/>
 <junction x="106.68" y="99.06"/>
 <pinref part="J5" gate="G$1" pin="6"/>
@@ -6206,6 +6417,10 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <wire x1="78.74" y1="104.14" x2="88.9" y2="104.14" width="0.1524" layer="91"/>
 <junction x="78.74" y="104.14"/>
 <junction x="88.9" y="104.14"/>
+<pinref part="CON1" gate="G$1" pin="2"/>
+<wire x1="106.68" y1="121.92" x2="111.76" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="111.76" y1="121.92" x2="111.76" y2="99.06" width="0.1524" layer="91"/>
+<junction x="111.76" y="99.06"/>
 </segment>
 </net>
 <net name="L7" class="0">
@@ -6213,7 +6428,8 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <pinref part="J3" gate="-7" pin="S"/>
 <pinref part="J2" gate="G$1" pin="7"/>
 <wire x1="147.32" y1="101.6" x2="129.54" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="101.6" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="101.6" x2="114.3" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="101.6" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
 <wire x1="88.9" y1="109.22" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
 <junction x="106.68" y="101.6"/>
 <pinref part="J5" gate="G$1" pin="7"/>
@@ -6225,6 +6441,10 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <wire x1="78.74" y1="109.22" x2="88.9" y2="109.22" width="0.1524" layer="91"/>
 <junction x="78.74" y="109.22"/>
 <junction x="88.9" y="109.22"/>
+<pinref part="CON1" gate="G$1" pin="3"/>
+<wire x1="106.68" y1="124.46" x2="114.3" y2="124.46" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="124.46" x2="114.3" y2="101.6" width="0.1524" layer="91"/>
+<junction x="114.3" y="101.6"/>
 </segment>
 </net>
 <net name="L8" class="0">
