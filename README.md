@@ -11,3 +11,7 @@ Another of these boards can be used at the other end of the 8-conductor
 cable, but this time it can be populated with a 0.1" or 3.5mm pitch
 screw terminal and mounted to the benchwork near where it's signals
 are used.
+
+  * 4.0 Added optional resistors inline for direct driving LED outputs with a default (cuttable) link for use as inputs...
+  * 5.0 Added SPDT "Frog Power" 3.5mm connector pads
+
