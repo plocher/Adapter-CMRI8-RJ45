@@ -6239,7 +6239,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="J3" library="SPCoast" deviceset="KK-156-8" device="F" value="0.156"/>
 <part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="3.5MM-8" value="3.5mm"/>
-<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="L" value="DOC-OSHW-LOGO-L"/>
+<part name="U$1" library="SPCoast" deviceset="DOC-OSHW-LOGO-" device="L" value="OSHW"/>
 <part name="J1" library="SPCoast" deviceset="CONNECTOR-RJ45" device="-FRONT" value="RJ45"/>
 <part name="J4" library="SPCoast" deviceset="CONNECTOR-M04" device="SCREW_LOCK" value="3.5mm"/>
 <part name="M1" library="SPCoast" deviceset="MOUNTINGHOLE" device=""/>
@@ -6253,7 +6253,7 @@ http://freedomdefined.org/OSHW   Creative Commons - Attribution - ShareAlike 3.0
 <part name="R6" library="SPCoast" deviceset="R*" device="PTH04" value="0R"/>
 <part name="R7" library="SPCoast" deviceset="R*" device="PTH04" value="0R"/>
 <part name="R8" library="SPCoast" deviceset="R*" device="PTH04" value="0R"/>
-<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M03" device="3.5MM-LOCK"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M03" device="3.5MM-LOCK" value="3.5MM"/>
 </parts>
 <sheets>
 <sheet>
